@@ -1,0 +1,8 @@
+text = 289
+
+if text >= 280:
+    print('Esse texto é maior que o esperado')
+
+
+if text <= 280:
+    print('Tweet')
